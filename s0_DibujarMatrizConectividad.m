@@ -1,5 +1,5 @@
 %% DIBUJAR MATRICES CONECTIVIDAD SUJETO INDIVIDUAL
-
+% añado esta nueva línea para probar
 % Deletes everything in the workspace.
 clc
 clear
