@@ -2,6 +2,8 @@
 % añado esta nueva linea para probar
 % ahora añado esta nueva línea desde github 
 % añado de nuevo esta línea desde github
+% 22/10/2025 añado esta nueva línea desde github 
+
 clc
 clear 
 close all
